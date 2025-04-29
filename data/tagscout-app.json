@@ -1,0 +1,17 @@
+{
+  "content_type": "link",
+  "audience": "internal",
+  "display_name": "Webex Teams",
+  "product": "webex_teams",
+  "subtech": [],
+  "tech": [],
+  "feature": "ucm_calling",
+  "title": "TagScout App",
+  "content": [
+    "https://scripts.cisco.com/app/tagscoutapp/"
+  ],
+  "description": "Use this tool to analyze logs against pre-defined log annotations",
+  "category": [
+    "tshoot"
+  ]
+}
