@@ -1,0 +1,4 @@
+---
+title: Jabber
+---
+# Jabber Configurations
